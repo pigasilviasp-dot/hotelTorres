@@ -9,7 +9,7 @@
 
 Sito web interattivo per un hotel, progettato per gestire l'intera presenza online della struttura. Integra una vetrina per le stanze e i pacchetti vacanza, unita a un motore di prenotazione dinamico con calcolo dei prezzi e simulazione di pagamento.
 
-🌐 **[Guarda la Demo Live qui] (https://hotel-torres.vercel.app)**
+🌐 **[Guarda la Demo Live qui](https://hotel-torres.vercel.app)**
 ---
 
 ## Caratteristiche Principali
