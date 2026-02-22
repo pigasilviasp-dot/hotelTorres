@@ -9,6 +9,7 @@
 
 Sito web interattivo per un hotel, progettato per gestire l'intera presenza online della struttura. Integra una vetrina per le stanze e i pacchetti vacanza, unita a un motore di prenotazione dinamico con calcolo dei prezzi e simulazione di pagamento.
 
+🌐 **[Guarda la Demo Live qui] (https://hotel-torres.vercel.app)**
 ---
 
 ## Caratteristiche Principali
@@ -33,3 +34,9 @@ Sito web interattivo per un hotel, progettato per gestire l'intera presenza onli
 * **Pagamenti:** Stripe
 
 ---
+## Autore
+
+Sviluppato da **Silvia Piga** come progetto di portfolio.
+
+* **LinkedIn:** www.linkedin.com/in/silvia-piga-81648037b
+* **GitHub:** [@pigasilviasp-dot](https://github.com/pigasilviasp-dot)
