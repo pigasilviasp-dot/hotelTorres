@@ -50,21 +50,21 @@ export default function Home() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
-          <div className="bg-[url(/vista2.jpg)] bg-cover bg-center p-8 rounded-2xl shadow-xl hover:shadow-2xl transition-shadow text-center group border border-slate-100">
+          <div className="bg-[url('/vista2.jpg')] bg-cover bg-center p-8 rounded-2xl shadow-xl hover:shadow-2xl transition-shadow text-center group border border-slate-100">
             <h3 className="text-xl font-bold text-white text-shadow-[0_2px_4px_rgba(0,0,0,0.9)] mb-3">Vista Mozzafiato</h3>
             <p className="text-gray-100 text-shadow-[0_2px_4px_rgba(0,0,0,0.9)] font-medium">
               Ogni stanza offre una vista panoramica sul mare cristallino per risvegli indimenticabili.
             </p>
           </div>
 
-          <div className="bg-[url(/spa.jpg)] bg-cover bg-center p-8 rounded-2xl shadow-xl hover:shadow-2xl transition-shadow text-center group border border-slate-100">
+          <div className="bg-[url('/spa.jpg')] bg-cover bg-center p-8 rounded-2xl shadow-xl hover:shadow-2xl transition-shadow text-center group border border-slate-100">
             <h3 className="text-xl font-bold text-white text-shadow-[0_2px_4px_rgba(0,0,0,0.9)] mb-3">Spa & Wellness</h3>
             <p className="text-gray-100 text-shadow-[0_2px_4px_rgba(0,0,0,0.9)] font-medium">
               Rigenerati nella nostra Spa esclusiva con trattamenti termali e massaggi personalizzati.
             </p>
           </div>
 
-          <div className="bg-[url(/food.jpg)] bg-cover bg-center p-8 rounded-2xl shadow-xl hover:shadow-2xl transition-shadow text-center group border border-slate-100">
+          <div className="bg-[url('/food.jpg')] bg-cover bg-center p-8 rounded-2xl shadow-xl hover:shadow-2xl transition-shadow text-center group border border-slate-100">
             <h3 className="text-xl font-bold text-white text-shadow-[0_2px_4px_rgba(0,0,0,0.9)] mb-3">Cucina Gourmet</h3>
             <p className="text-gray-100 text-shadow-[0_2px_4px_rgba(0,0,0,0.9)] font-medium">
               Assapora i piatti della tradizione rivisitati dai nostri chef stellati con prodotti locali.

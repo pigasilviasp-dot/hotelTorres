@@ -52,7 +52,7 @@ export default function Navbar(){
                                 </Link>
                             </li>
                             <li >
-                                <Link to="/contatti" className="hover:text-white cursor-pointer" onClick={()=>SetIsOpen(false)}>
+                                <Link to="/offerte" className="hover:text-white cursor-pointer" onClick={()=>SetIsOpen(false)}>
                                  I Nostri Pacchetti
                                 </Link>
                             </li>
